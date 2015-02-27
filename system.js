@@ -242,6 +242,11 @@ System.prototype.addStack = function(stack) {
 	}
 };
 
+// todo createRandomModifier (good\bad)
+// todo stackable modifiers?
+// todo stack length limit and LIFO
+
+
 
 
 
